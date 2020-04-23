@@ -126,7 +126,8 @@ input, select, textarea {
 	}
 
 	.box-canal img{
-		object-fit: cover;
+		height: auto;
+		width: auto;
 	}
 
 /* Tabs */
