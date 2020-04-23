@@ -110,8 +110,7 @@ input, select, textarea {
 		border-radius: 5px;
 		background-color: #212121;
 	/*	width: auto;
-		height: auto; */
-		object-fit: cover;
+	*/	height: 50%;
 		text-align: center;
 	}
 	
