@@ -109,8 +109,6 @@ input, select, textarea {
 		border-radius: 5px 0px 0px 5px;
 		border-radius: 5px;
 		background-color: #212121;
-	/*	width: auto;
-	*/	height: 50%;
 		text-align: center;
 	}
 	
@@ -125,6 +123,10 @@ input, select, textarea {
 		-webkit-transform: translateY(-50%);
 		-ms-transform: translateY(-50%);
 		transform: translateY(-50%);
+	}
+
+	.box-canal img{
+		object-fit: cover;
 	}
 
 /* Tabs */
