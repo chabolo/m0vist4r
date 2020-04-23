@@ -100,7 +100,7 @@ input, select, textarea {
 	.wrapper-canal {
 		display: grid;
 		margin: 10px;
-		grid-template-columns: 1fr 1fr;
+		grid-template-columns: 1fr 1fr 1fr;
 		grid-gap: 10px;
 		background-color: #424242;
 	}
@@ -126,6 +126,7 @@ input, select, textarea {
 	}
 
 	.box-canal img{
+		margin: 5px 5px 5px 5px;
 		height: 100%;
 		width: 100%;
 	}
